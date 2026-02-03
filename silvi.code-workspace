@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../silvi"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sovyana",
+		"liveServer.settings.port": 5501
+	}
+}
